@@ -1,0 +1,29 @@
+
+
+body {
+    background-color: black;
+}
+
+img {
+    border: 5px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-size: 200%;
+}
+
+h1 {
+    color: white;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 400%;
+}
+
+div {
+    text-align: center;
+}
